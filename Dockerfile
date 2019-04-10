@@ -1,5 +1,5 @@
-FROM pch18/baota:_init
-MAINTAINER pch18.cn
+FROM jupincu/baota:_init
+MAINTAINER nopost to hub.docker.com
 
 COPY set_default.py /set_default.py
 
