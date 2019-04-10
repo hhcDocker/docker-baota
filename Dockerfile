@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER pch18.cn
+MAINTAINER nopost to hub.docker.com
 
 #更新系统
 RUN yum -y update \
